@@ -1,0 +1,6 @@
+
+python ~/git/studio_dev/bin/studio.py -e pred_prey_rules1 -c cyrene1.xml
+
+- try with/without the rules
+- still not able to do what's wanted using a rule: 
+     if prey are clumped too large (num_attached > N), then predator cannot eat the clump
