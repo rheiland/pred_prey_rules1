@@ -1,1 +1,2 @@
 prey,custom:num_attached,increases,phagocytose predator,2,3,4,0
+predator,custom:num_attached,decreases,phagocytose prey,0,0.5,4,0
